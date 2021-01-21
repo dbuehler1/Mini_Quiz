@@ -1,5 +1,9 @@
 package edu.wctc;
 import java.sql.SQLOutput;
+/**
+ * @author Daniel Buehler
+ * class Introduction to Java 152-130-22719-21
+ */
 import java.util.*;
 public class Main {
 
