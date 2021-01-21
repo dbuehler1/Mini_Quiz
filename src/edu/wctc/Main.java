@@ -64,6 +64,7 @@ public class Main {
         determineResults();
         System.out.println("Would you like to take the quiz again?(Y/N)");
         String runAgain = reader.next();
+
         if(runAgain.toLowerCase().equals("y")){
             runProgram();
         }
